@@ -44,7 +44,7 @@ export default function App() {
             </div>
 
             <div className='col-md-2 col-lg-2 col-xl-2 mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
+              <h6 className='text-uppercase fw-bold mb-4'></h6>Services
               <p>
                 <a href='#!' className='text-reset'>
                   Fleet
@@ -89,17 +89,14 @@ export default function App() {
             <div className='col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
-                <i className='fas fa-home me-3'></i> New York, NY 10012, US
+                <i className='fas fa-home me-3'></i> 54A/78 Hauck Island Apt. 937, Poblacion, Tabuk 1692 Metro Manila
               </p>
               <p>
                 <i className='fas fa-envelope me-3'></i>
-                info@example.com
+                LuckyG_transport@gmail.com
               </p>
               <p>
-                <i className='fas fa-phone me-3'></i> + 01 234 567 88
-              </p>
-              <p>
-                <i className='fas fa-print me-3'></i> + 01 234 567 89
+                <i className='fas fa-phone me-3'></i> +63 817 839 2992
               </p>
             </div>
           </div>
