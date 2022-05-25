@@ -2,7 +2,12 @@ import React from 'react';
 import Header from './Header';
 import '../styles/Fleet.scss';
 import Footer from './Footer';
-import Group1 from '../media/Kia-white.png';
+import GroupA from '../media/Kia-white.png';
+import GroupB from '../media/Honda Brio.jpeg';
+import GroupC from '../media/toyotacorolla.jpeg';
+import GroupD from '../media/hyundaiaccent.png';
+import GroupE from '../media/isuzu-mux.jpeg';
+import GroupF from '../media/Nissan.jpeg';
 import { Row, Container, Col, Button } from 'react-bootstrap';
 
 const Fleet = () => {
@@ -22,7 +27,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupA} />
               </div>
             </Col>
 
@@ -72,7 +77,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupB} />
               </div>
             </Col>
 
@@ -124,7 +129,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupC} />
               </div>
             </Col>
 
@@ -176,7 +181,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupD} />
               </div>
             </Col>
 
@@ -229,7 +234,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupE} />
               </div>
             </Col>
 
@@ -281,7 +286,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={Group1} />
+                <img src={GroupF} />
               </div>
             </Col>
 

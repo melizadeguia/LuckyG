@@ -19,7 +19,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 1,050</strong> To 2,250
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
@@ -32,7 +32,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 1,550</strong> To 2,950
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
@@ -45,7 +45,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 2,450</strong> To 4,000
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
@@ -64,7 +64,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 1,050</strong> To 2,250
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
@@ -77,7 +77,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 1,550</strong> To 2,950
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
@@ -90,7 +90,7 @@ const Pricing = () => {
                     <Card.Text>
                       From <strong>₱ 2,450</strong> To 4,000
                     </Card.Text>
-                    <Button className='btn'>Book Now</Button>
+                    <Button className='btn' href='/fleet'>Book Now</Button>
                   </Card.Body>
                 </Card>
               </Col>
