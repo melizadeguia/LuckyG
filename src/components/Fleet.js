@@ -170,7 +170,7 @@ const Fleet = () => {
                     <Col>
                       <p>Group C cars are A/T sedans and are at the same size as our group B models.
                         Choose this group car rental if you want to have a comfortable driving of A/T sedan with sufficient space for 5 persons.
-                        Our cars on this category are Toyota Vios and Honda City</p>
+                        Our cars on this category are Toyota Vios, Hyudai Accent and Honda City</p>
                     </Col>
                   </Row>
                 </div>
