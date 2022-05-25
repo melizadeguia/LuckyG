@@ -1,5 +1,8 @@
 import React from 'react';
 import { MDBFooter } from 'mdb-react-ui-kit';
+import BusinessSharpIcon from '@mui/icons-material/BusinessSharp';
+import EmailSharpIcon from '@mui/icons-material/EmailSharp';
+import CallSharpIcon from '@mui/icons-material/CallSharp';
 
 export default function App() {
   return (
@@ -68,14 +71,14 @@ export default function App() {
             <div className='col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
-                <i className='fas fa-home me-3'></i> 54A/78 Hauck Island Apt. 937, Poblacion, Tabuk 1692 Metro Manila
+                <BusinessSharpIcon/> 54A/78 Hauck Island Apt.937, Poblacion, Tabuk 1692 Metro Manila
               </p>
               <p>
-                <i className='fas fa-envelope me-3'></i>
-                LuckyG_transport@gmail.com
+                <EmailSharpIcon/>
+                 LuckyG_transport@gmail.com
               </p>
               <p>
-                <i className='fas fa-phone me-3'></i> +63 817 839 2992
+                <CallSharpIcon/> +63 817 839 2992
               </p>
             </div>
           </div>
