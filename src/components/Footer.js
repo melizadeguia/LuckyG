@@ -21,7 +21,7 @@ export default function App() {
                 <i className='fas fa-gem me-3'></i>LuckyGTransport
               </h6>
               <p>
-                Book services with us.
+              Committed in providing you excellent cheap van and car rental in Manila, Quezon City, Philippines. We provide you flexible offerings including transfer services, car rental, airport transfer, long and short term leases with the option of hiring driver or self drive. 
               </p>
             </div>
 
