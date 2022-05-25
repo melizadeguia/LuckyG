@@ -28,7 +28,7 @@ export default function App() {
             <div className='col-md-2 col-lg-2 col-xl-2 mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Services</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href="/fleet" className='text-reset'>
                   Fleet
                 </a>
               </p>
@@ -38,7 +38,7 @@ export default function App() {
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href="/reservation" className='text-reset'>
                   Reservation
                 </a>
               </p>
@@ -47,23 +47,18 @@ export default function App() {
             <div className='col-md-3 col-lg-2 col-xl-2 mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Useful links</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href="/fleet" className='text-reset'>
                   Pricing
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                  Settings
-                </a>
-              </p>
-              <p>
-                <a href='#!' className='text-reset'>
+                <a href="/reservation" className='text-reset'>
                   Orders
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                  Help
+                <a href="/about" className='text-reset'>
+                  About
                 </a>
               </p>
             </div>
