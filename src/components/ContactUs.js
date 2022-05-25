@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './Header';
+import Footer from './Footer';
 import '../styles/ContactUs.scss'
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import EmailIcon from '@mui/icons-material/Email';
@@ -73,6 +74,7 @@ const ContactUs = () => {
                     </Row>
                 </Container>
             </div>
+            <Footer/>
         </div>
     )
 }
