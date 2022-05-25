@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './Header';
+import Footer from './Footer';
 import '../styles/Reservation.scss';
 import { Row, Container, Col, Form, } from 'react-bootstrap';
 
@@ -77,8 +78,11 @@ const Reservation = () => {
                             </Col>
                         </Row>
                     </Form>
+
                 </Container>
             </div>
+
+            <Footer/>
         </div>
     )
 }

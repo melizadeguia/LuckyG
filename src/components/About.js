@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './Header';
+import Footer from './Footer';
 import { Row, Container, Col, Carousel } from 'react-bootstrap';
 import About1 from '../media/about1.jpg';
 import About2 from '../media/about2.jpg';
@@ -91,6 +92,8 @@ const About = () => {
                     </Row>
                 </Container>
             </div>
+
+            <Footer/>
         </div>
     )
 }
