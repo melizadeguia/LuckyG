@@ -234,7 +234,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={GroupE} />
+                <img src={GroupF} />
               </div>
             </Col>
 
@@ -275,7 +275,7 @@ const Fleet = () => {
                     <Col>
                       <p>Group E cars are AUVs and are very comfortable and spacious
                         Choose this group car rental if you want to have a great fuel saving with sufficient space for 7 persons including the driver.
-                        Our cars on this category are Toyota Innova M/T</p>
+                        Our cars on this category are KIA Kicks M/T</p>
                     </Col>
                   </Row>
                 </div>
@@ -286,7 +286,7 @@ const Fleet = () => {
           <Row className='area'>
             <Col sm>
               <div className='fleetphoto'>
-                <img src={GroupF} />
+                <img src={GroupE} />
               </div>
             </Col>
 
@@ -295,7 +295,7 @@ const Fleet = () => {
                 <div className='content'>
                   <Row>
                     <Col>
-                      <h1>Group F - AUV: 7 seater A/T </h1>
+                      <h1>Group F - SUV: 7 seater A/T </h1>
                       <p>Price from:  ₱ 2,950</p>
                     </Col>
                     <Col>
@@ -326,9 +326,9 @@ const Fleet = () => {
                   </Row>
                   <Row>
                     <Col>
-                      <p>Group F cars are AUVs and are very comfortable and spacious
+                      <p>Group F cars are SUVs and are very comfortable and spacious
                         Choose this group car rental if you want to have a comfortable driving experience with a sufficient space for 7 persons including the driver.
-                        Our cars on this category are Toyota Innova A/T</p>
+                        Our cars on this category are Isuzu MU-X A/T</p>
                     </Col>
                   </Row>
                 </div>
