@@ -16,11 +16,11 @@ const Header = () => {
               <Nav.Link href="/reservation"> Reservation</Nav.Link>
               <Nav.Link href="/fleet">Fleet</Nav.Link>
               <NavDropdown title="Services" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Self-Drive</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">With Driver</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">Airport Shuttle Service</NavDropdown.Item>
+                <NavDropdown.Item href="/reservation">Self-Drive</NavDropdown.Item>
+                <NavDropdown.Item href="/reservation">With Driver</NavDropdown.Item>
+                <NavDropdown.Item href="/reservation">Airport Shuttle Service</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">Promos</NavDropdown.Item>
+                <NavDropdown.Item href="/reservation">Promos</NavDropdown.Item>
               </NavDropdown>
             </Nav>
             <Nav>
