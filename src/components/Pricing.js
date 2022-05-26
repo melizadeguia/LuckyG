@@ -12,8 +12,8 @@ const Pricing = () => {
           <Container fluid='sm' >
             <Row>
               <Col sm>
-                <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                <Card className='card'  >
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group A</Card.Title>
                     <Card.Text>
@@ -25,8 +25,8 @@ const Pricing = () => {
               </Col>
 
               <Col sm>
-                <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                <Card className='card'  >
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group B</Card.Title>
                     <Card.Text>
@@ -39,7 +39,7 @@ const Pricing = () => {
 
               <Col sm>
                 <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group C</Card.Title>
                     <Card.Text>
@@ -58,7 +58,7 @@ const Pricing = () => {
             <Row>
               <Col sm>
                 <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group D</Card.Title>
                     <Card.Text>
@@ -71,7 +71,7 @@ const Pricing = () => {
 
               <Col sm>
                 <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group E</Card.Title>
                     <Card.Text>
@@ -84,7 +84,7 @@ const Pricing = () => {
 
               <Col sm>
                 <Card className='card'>
-                  <Card.Img variant="top" src={car} />
+                  <Card.Img variant="top" src={car} className='image'/>
                   <Card.Body>
                     <Card.Title>Group F</Card.Title>
                     <Card.Text>
