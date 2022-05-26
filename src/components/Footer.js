@@ -52,11 +52,6 @@ export default function App() {
                 </a>
               </p>
               <p>
-                <a href="/reservation" className='text-reset'>
-                  Orders
-                </a>
-              </p>
-              <p>
                 <a href="/about" className='text-reset'>
                   About
                 </a>
