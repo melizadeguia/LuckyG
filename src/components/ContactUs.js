@@ -20,7 +20,7 @@ function ContactUs() {
     const onSubmit = (e) => {
         e.preventDefault();
         send(
-            'service_er31r8c',
+            'service_wfe6988',
             'template_sjjbl6d',
             toSend,
             'P3xxVXzGNU-4KqMT4'
