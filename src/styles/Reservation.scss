@@ -41,9 +41,9 @@
                 margin-top: 10px;
 
                 .btn {
-                    background: none;
+                    background-color: rgb(255, 102, 0);
                     border: 2px solid rgb(255, 102, 0);
-                    color: rgb(255, 102, 0);
+                    color: black;
                     font: inherit;
                     line-height: 1;
                     margin: 0.5em;
@@ -52,7 +52,8 @@
                     &:hover,
                     :focus {
                         transform: translateY(-0.25em);
-                        background-color: rgb(255, 102, 0);
+                        background-color: rgb(216, 112, 0);
+                        border: 2px solid rgb(216, 112, 0);
                         color: white;
                     }
                 }

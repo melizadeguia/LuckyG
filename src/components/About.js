@@ -26,10 +26,20 @@ const About = () => {
                         </Col>
 
                         <Col sm>
-                            <div className='text'>
+                            <div className='text mt-sm-4 mx-sm-5'>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                    <span className='h2'>Our Company</span>
+                                </p>
+                                <p>
+                                    <b>LuckyG Transport</b> is a fresh transport company that provides top quality service for all types of clients. Although the company just started, its proprietors is not new to business, they have been in the industry for 10 years.
+                                </p>
+                            </div>                                
+                            <div className='text m-sm-5'>
+                                <p>
+                                    <span className='h2'>Our Vision</span>
+                                </p>
+                                <p>
+                                    To be the "Best" in the business while setting the standard in the industry, to provide only the best for our partners and clients. 
                                 </p>
                             </div>
                         </Col>
@@ -37,10 +47,32 @@ const About = () => {
 
                     <Row className='p-3'>
                         <Col sm>
-                            <div className='text'>
+                            <div className='text mx-sm-5'>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                    <span className='h2'>Our Promise</span>
                                 </p>
+                                <p>
+                                    To provide Transparent, Safe, Reliable, Best Prices and High Quality services to everyone.
+                                </p>
+                            </div> 
+                            <div className='text m-sm-5'>
+                                <p>
+                                    <span className='h2'>Our Values</span>
+                                </p>
+                                <ul>
+                                    <li>
+                                        Transparency
+                                    </li>
+                                    <li>
+                                        Integrity
+                                    </li>
+                                    <li>
+                                        Accountability
+                                    </li>
+                                    <li>
+                                        Passion
+                                    </li>
+                                </ul>
                             </div>
                         </Col>
 
